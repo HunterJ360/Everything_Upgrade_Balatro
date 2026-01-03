@@ -1,0 +1,18 @@
+{
+  "id": "everything_upgrade_balatro",
+  "name": "Everything Upgrade Balatro",
+  "author": [
+    "HunterJ360"
+  ],
+  "description": "Balatro Mod Inspired by Everything Upgrade Tree on Roblox, made with Joker Forge",
+  "prefix": "EUB",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "priority": 1,
+  "badge_colour": "666665",
+  "badge_text_colour": "FFFFFF",
+  "dependencies": [
+    "Steamodded (>=0.6.2)",
+    "Talisman (>=1.0.5)"
+  ]
+}
