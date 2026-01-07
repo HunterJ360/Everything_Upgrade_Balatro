@@ -1,5 +1,5 @@
 # Everything_Upgrade_Balatro
-A Balatro mod inspired and based on Everything Upgrade Tree on Roblox, made with Joker Forge
+A Balatro mod inspired and based on Everything Upgrade Tree on Roblox, made with assistance from Joker Forge
 
 Files are in the Releases Tab on the right, latest is under the tag Beta3
 
